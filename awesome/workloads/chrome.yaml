@@ -30,9 +30,9 @@ hostAccess:
   #   ${GITDIR} path to the git dir.
   #   ${HOME} path to the user's HOME dir.
   #   ${external-drive-name} path to where the external drive is mounted.
-  # paths:
-  # - ${HOME}/Downloads:/home/chrome/Downloads
-  # - ${HOME}/.config/google-chrome:/home/chrome/.config/google-chrome
+  paths:
+  - ${HOME}/Downloads:/home/chrome/Downloads
+  - ${HOME}/.config/google-chrome:/home/chrome/.config/google-chrome
 
   usbDevices:
   - YubiKey # mount YubiKey

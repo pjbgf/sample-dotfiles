@@ -15,5 +15,5 @@ hostAccess:
   #   ${GITDIR} path to the git dir.
   #   ${HOME} path to the user's HOME dir.
   #   ${external-drive-name} path to where the external drive is mounted.
-  # paths:
-  # - ${HOME}/.config/Slack:/home/slacker/.config/Slack
+  paths:
+  - ${HOME}/.config/Slack:/home/slacker/.config/Slack
