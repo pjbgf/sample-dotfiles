@@ -54,6 +54,9 @@ https://github.com/Keyitdev/dotfiles/tree/v3
 ### awesome
 https://github.com/WillPower3309/awesome-dotfiles
 
+### sway
+https://github.com/tashima42/dotfiles
+
 ## License
 
 This repository is licensed under [Apache 2.0](LICENSE). All themes used
